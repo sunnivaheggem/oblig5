@@ -1,3 +1,7 @@
 https://github.com/sunnivaheggem/oblig5.git
 
-Kilde: https://blog.logrocket.com/dockerizing-django-app/#setting-up-the-django-app
+https://hub.docker.com/repository/docker/sunnivaheggem/test
+
+#kilde: docker slides 
+#https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
+#https://docs.docker.com/engine/reference/commandline/push/#options
